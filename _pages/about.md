@@ -34,7 +34,7 @@ I am a first-year Ph.D. candidate in the **HKUST NLP Group** at the Hong Kong Un
 
 ## Publications
 
-A complete, dedicated list is also available on the [Publications](/publications/) page.
+A complete, dedicated list is also available on the [Publications](publications/) page.
 
 **First-author papers**
 
