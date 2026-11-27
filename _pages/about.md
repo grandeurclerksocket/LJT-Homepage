@@ -18,7 +18,7 @@ I am **Junteng Liu**, a first-year PhD candidate at the HKUST NLP Group, Hong Ko
 - **B.Eng.**, Shanghai Jiao Tong University, 2020-2024
 - **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
-I am advised by Professor Junxian He, who leads the HKUST NLP Group and previously advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU).
+I am advised by Professor Junxian He, who leads the HKUST NLP Group, a research group at the Hong Kong University of Science and Technology focused on natural language processing research. He also previously advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU).
 
 ## Research Experience
 
