@@ -18,5 +18,11 @@ jobs:
         run: bundle exec jekyll build --baseurl "/LJT-Homepage"
         env:
           JEKYLL_ENV: production
+      - name: Inspect generated pages
+        run: |
+          echo "--- index.html key phrases ---"
+          grep -o -E 'Junteng Liu|HKUST NLP Group|Shanghai Jiao Tong University|MINIMAX|Tencent WXG|Shanghai AI Lab|SynLogic[^<]*|On the Perception Bottleneck[^<]*|On the Universal Truthfulness[^<]*|In-Context Sharpness[^<]*|C-Eval[^<]*|Composing Parameter-Efficient[^<]*|jliugi@connect.ust.hk|Vicent0205|junteng88716710|Skills|Contact Information|Academic Background|Research Experience|Publications|Zhiyuan Honor Scholarship' _site/index.html | sort | uniq -c
+          echo "--- publications/index.html key phrases ---"
+          grep -o -E 'SynLogic[^<]*|On the Perception Bottleneck[^<]*|On the Universal Truthfulness[^<]*|In-Context Sharpness[^<]*|C-Eval[^<]*|Composing Parameter-Efficient[^<]*|Preprints|Conference Papers' _site/publications/index.html | sort | uniq -c
       - name: List generated files
         run: ls -la _site
