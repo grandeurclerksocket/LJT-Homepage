@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu - Ph.D. candidate at HKUST NLP Group"
+description              : &description "Junteng Liu - PhD candidate at HKUST NLP Group"
 url                      : https://grandeurclerksocket.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "grandeurclerksocket/LJT-Homepage"
@@ -14,7 +14,7 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "First-year Ph.D. candidate at HKUST NLP Group"
+  bio              : "First-year PhD candidate at HKUST NLP Group"
   location         :
   employer         : "Hong Kong University of Science and Technology"
   uri              :
